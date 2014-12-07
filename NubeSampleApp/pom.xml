@@ -10,4 +10,20 @@
         <maven.compiler.source>1.7</maven.compiler.source>
         <maven.compiler.target>1.7</maven.compiler.target>
     </properties>
+    
+    
+    <dependencies>
+        <dependency>
+            <groupId>org.incognito.nube.core</groupId>
+            <artifactId>Nube</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+
+    
+   <dependency>
+            <groupId>org.incognito.nube.core</groupId>
+            <artifactId>NubeBuilder</artifactId>
+            <version>1.0-SNAPSHOT</version>
+        </dependency>
+    </dependencies>
 </project>
