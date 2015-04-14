@@ -5,7 +5,7 @@
  */
 package org.nube.sample.service.employee;
 
-import com.nube.core.annotations.MicroService;
+import org.nube.core.annotations.MicroService;
 
 /**
  *
